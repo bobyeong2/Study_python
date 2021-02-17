@@ -15,4 +15,4 @@ jupyter notebook에서 .py로 github 올리기.
 
     - 작성한 .ipynb 와 .py파일이 같은 이름으로 생성됨을 확인.
 
-jupyter notebook에서 .py로 github 올리기.
+
