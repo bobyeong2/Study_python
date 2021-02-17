@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python_algorithm_study
 =======
 # Study_python
