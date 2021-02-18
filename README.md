@@ -16,3 +16,6 @@ jupyter notebook에서 .py로 github 올리기.
     - 작성한 .ipynb 와 .py파일이 같은 이름으로 생성됨을 확인.
 
 
+
+.gitignore 설정이 안먹어서 .ipynb Tracking 해제가 안되어 그냥 ipynb로 올리기로 마음먹음
+해결책 방안수립 후 성공 시 업데이트 하겠음. 
